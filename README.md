@@ -4,9 +4,11 @@ Senior full-stack engineer from Munich. Building for the web since 2008, with Ru
 from features down to the infrastructure that runs them. Worker-owner at the
 [Tech-Genossen eG](https://techgenossen.de), a tech cooperative.
 
-Most of my work is closed source: seven years on [webgate.io](https://webgate.io), a video review platform
-for film and TV (Rails and Vue.js, transcoding, a GlusterFS storage cluster), before that gutefrage.net,
-CHECK24 and YiGG. With the Tech-Genossen I relaunched [oekotest.de](https://www.oekotest.de) on Rails,
+Most of my work is closed source. From 2017 to 2024 I worked on [webgate.io](https://webgate.io), a video
+review platform for film and TV: Rails and Vue.js features, a new transcoding infrastructure, a GlusterFS
+storage cluster, and a better delivery process with feature staging, CI, code-quality tooling and regular
+retrospectives. Before that gutefrage.net, where I mentored an apprentice and organised coding dojos and IT
+drinkups, CHECK24 and YiGG. With the Tech-Genossen I relaunched [oekotest.de](https://www.oekotest.de) on Rails,
 built [lunch-o-mat.com](https://lunch-o-mat.com) and a ton of smaller projects.
 
 I like small teams, being close to the product and the people who use it, and boring, well-tested
@@ -42,7 +44,15 @@ and publish most of them.
 - [**pi-container-vm**](https://github.com/shostakovich/pi-container-vm) – runs every tool of the pi
   coding agent inside a hardened Apple `container` VM; only the project directory is mounted.
 
-## Smaller things over the years
+My side projects are also my mad-scientist lab 🧑‍🔬 I'm fairly language-agnostic and like trying new ones –
+hence Crystal, Rust and the Phoenix ports – and I experiment with how long a leash I can give coding agents.
+I hold these projects to looser standards than client work; that's where the `claude/…` branches and the
+occasional huge pull request come from.
+
+## Over the years
+
+<details>
+<summary>Ten smaller projects, 2011–2021</summary>
 
 | Year | Project | What it does |
 |------|---------|--------------|
@@ -56,6 +66,8 @@ and publish most of them.
 | 2011 | [Ethan](https://github.com/shostakovich/Ethan) | XMPP bot for Scrum teams, Node + CoffeeScript |
 | 2011 | [Florette](https://github.com/shostakovich/Florette) | A small language that compiles to PHP |
 | 2011 | [ZWeather](https://github.com/shostakovich/ZWeather) | Web frontend for our weather station |
+
+</details>
 
 **Contributions:** [32 merged pull requests](https://github.com/Homebrew/homebrew-cask/pulls?q=is%3Amerged+author%3Ashostakovich)
 to Homebrew Cask in its early days (2013) · fixes for [redirector](https://github.com/vigetlabs/redirector)
@@ -72,5 +84,5 @@ Docker · Ansible
 - 🌍 [rocu.de](https://rocu.de/about-me/) – my site since 2001
 - 🎼 The username is a nod to Dmitri Shostakovich.
 
-<sub>Most of my repos are built for me: no pull requests (benevolent dictator and all that), but forks
-are very welcome.</sub>
+<sub>Most of these repos are built for our household, so I keep their scope tight and don't take pull
+requests. Issues and forks are very welcome.</sub>
